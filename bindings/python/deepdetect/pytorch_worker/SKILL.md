@@ -1,3 +1,8 @@
+---
+name: deepdetect-pytorch-worker
+description: Use when porting external PyTorch object detection models in DeepDetect through the external PyTorch worker backend.
+---
+
 # External PyTorch Model Import Skill
 
 Use this guide when an LLM agent needs to port, import, adapt, or test an
